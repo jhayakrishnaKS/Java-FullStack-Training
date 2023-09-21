@@ -1,4 +1,6 @@
 1.we learned the computer basics on how RAM , ROM and CPU works and their connectivity.
 2.Then we learned about the client , server and how devlopers communicate with them.
 3.Next we learned about the network basics like TCP,UDP,DNS,etc on how they work.
-4.After that we created github account and linked 
+4.After that we created github account and linked Git.
+5.Then we connected with the visual studio.
+6.Atlast we created the web page based on our knowledge in HTML and CSS.  
