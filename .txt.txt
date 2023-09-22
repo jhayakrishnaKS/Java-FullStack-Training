@@ -1,0 +1,6 @@
+1.the first thing we was to upload the text file to the github about what we learned on the first day.
+2.Next we learned about html tags and all input tags.
+3.next we learned about linking html and css.
+4.then we did learn about css pseudo class and elements.
+5.then we learned about align,display,justify,padding,etc in css.
+6then we gained a knowledge on how to create web page using html and css 
