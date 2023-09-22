@@ -1,0 +1,6 @@
+1.today i learned how to use all the tags in the proper manner to create a wesite.
+2.then i did a web page similar the dribble web page.
+3.In there i made lot of mistake from which i learned a lot about importance of css.
+4.then i learned about aligning the contents properly with the help of diplay flex.
+5.then i did the ajio login page there i learned about customizing the buttons with the help of css.
+6.At the end of today i learned good knowledge on css and Html
