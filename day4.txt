@@ -1,0 +1,6 @@
+1.today i learned a good knowledge about HTML
+2.then i learned about the flex properties in CSS
+3.next thing i learned to create a menu in the web page with hover animation and display flex property
+4.then i learned the mistakes i made while doing that web page.
+5.at the end of the day i did ajio page with the help of html and css.
+6.from that i need to make few improvements  so that the website looks similar to the actual web page.
