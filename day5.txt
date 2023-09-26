@@ -1,0 +1,5 @@
+1.today the first thing i did was the correcting my mistakes and adding some new styles to my website which i did on day4.
+2.the next thing was to commit and push the website to the git hub.
+3.then we learned about bootstrap how it works and how we use it the html to create a website.
+4.then we did a website using bootstrap and learned to play with it.
+5.atlast we learned some basics in java script like how its looping conditions works , object,array,function,console.log,arrow function,hosting problems in js and map reduce functions in js.
