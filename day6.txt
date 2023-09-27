@@ -1,0 +1,6 @@
+1.In the morning we refreshed what we learned the previous day in java script.
+2.then we saw how the java script works in real time by absorbing how the todo list works.
+3.first we saw how the web page is created and aligned using html and bootstrap.
+4.then we saw how the click button,add button,delete button,etc works with the java script code.
+5.we did a phone book webpage using html and bootstrap .
+6.TBH there is lot to learn and work on java script,we need practice to excel in java script  
