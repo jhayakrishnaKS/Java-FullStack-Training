@@ -1,0 +1,10 @@
+1.today i learned how the dom model in java script.
+2.then i was assigned with 5 exercises in java script like:
+               1.add three numbers and print the result in web page.
+               2.calculate the emi and print the result in web page.
+               3.convert from centimeter to meter.
+               4.divsor .
+               5.change the color of the button when it is clicked.
+3.then i saw the visual work on  creating e-commerce wbsite using html and bootstsrap.
+4.then i was assigned to learn the dom model well in java script.
+
