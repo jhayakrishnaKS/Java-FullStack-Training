@@ -3,4 +3,4 @@ In which i learnt how login and sign validation works,
 And how the products displayed in home page and admin home page,
 Then how add to cart function works with java script,the add products to the home page works,
 The how to make edit and delete function works with js.
-then i made  the UI for login and sign up page.
+then i made  the UI for login and sign up page. 
