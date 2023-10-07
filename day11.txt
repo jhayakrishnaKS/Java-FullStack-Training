@@ -1,0 +1,5 @@
+1.today i completed the add to cart button  in the home and made it to display it in local storage with js,
+2.then i completed the add to cart icon in the home page with js,
+3.In the process i made alot of mistakes .
+4.and i learned how to avoid mistakes.
+5. There is still a lot to learn from my mistakes in js.

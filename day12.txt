@@ -1,0 +1,5 @@
+1.tody i tried to complete the updating cart page in user side with help of js.
+2.In which i failed to do the process with silly mistakes.
+3.I hosted my ecommerce sit as the given time came to end for completing ecommerce website.
+4.as far as now i need to put lot of work in learning java script.
+5.Only then i could be so sure of JS.
