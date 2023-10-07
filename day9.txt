@@ -1,0 +1,5 @@
+1.Today i completed the rest of the UI in the ecommerce website that i was assigned to do
+2.Then i did the login validation for the UI,
+3.then i did the sign up validation for the UI,
+4.In the process i learned the common mistakes i did in the js.
+5.And i'm still working on myself to work good on js.
