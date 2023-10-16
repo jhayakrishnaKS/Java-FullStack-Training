@@ -1,0 +1,18 @@
+1.today i learned jquery
+   :to access -> jquery cdn
+   :document 
+   :ready()
+   :*->all elements
+   :$().css()
+   :val()->to fetch the value
+
+2.Then i learned about TypeScript -> superset of javascript
+   :ls,dir->see directory
+   :tsc->type script compiler
+   :babel->convert ECMA Script to javascript
+
+3.Command to use TypeScript
+   :open gitbash
+   :npm init -y
+   :npm install -D parcel parcel-bundler
+   :npm run filename

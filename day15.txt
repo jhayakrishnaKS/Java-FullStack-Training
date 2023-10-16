@@ -1,0 +1,19 @@
+1.Today we learned Angular 
+     :SPA - Single Page Application
+
+2.We learned some Angular concepts 
+    *Component 
+    *Decorators
+    *Declarations 
+    *Providers 
+    *Bindings 
+    *String Interpolation 
+    *Property Binding 
+    *Event Binding
+    *Two way Binding 
+    *Directives (Structural)
+
+3.Task 
+ *Completed the Todo application task using angular for the following requirements 
+        1.Input fields 
+        2.Add Item 
