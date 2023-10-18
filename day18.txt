@@ -1,0 +1,9 @@
+1.Today we did  Angular Form validation in our Assessment2
+
+2. we learned about ngForm module:
+
+     dirty,pristine->data modification
+     touched,untouched->clicking the box
+     valid, invalid->the entered value is valid or not
+     ngForm->Overall form
+     ngModel->For form elements
