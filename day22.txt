@@ -35,10 +35,8 @@ Topics:-
         -with return type 
         -without return type
 
- 
---------------------------------------------------------------------
 
-Errors:
+Errors faced:
 
 
 * Array should stored in curly brackets not square brackets. 
