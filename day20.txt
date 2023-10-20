@@ -1,0 +1,2 @@
+completed task:
+1.To add validation in the formvalidation in the angular project.

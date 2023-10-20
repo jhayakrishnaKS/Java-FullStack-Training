@@ -1,0 +1,16 @@
+Auth guard 
+        -It's a feature to protect routes from unauthorized access.
+
+        Steps to create Auth guard 
+        1. Create auth guard using CLI.
+        2. Implement auth guard.
+        3. Use the auth guard.
+
+        - It has the following methods.
+            1. CanActivate
+            2. CanActivateChild
+            3. CanDeactivate 
+            4. CanMatch
+
+    *HTTPClientModule 
+        -Used for making HTTP requests.
