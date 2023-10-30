@@ -21,4 +21,4 @@ Task
         -Add/Edit/Remove Products
  
     ->Store and access data from file.
-    ->Use Model, View and Controller for the flow
+    ->Use Model, View and Controller for the flow.

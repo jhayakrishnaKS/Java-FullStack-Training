@@ -28,7 +28,7 @@ Java Concepts
         -Preventing deadlock in the following ways,
             1.Wait()
             2.Notify()
-            3.NotifyAll()
+            3.NotifyAll().
  
  
 Java Excercise 
