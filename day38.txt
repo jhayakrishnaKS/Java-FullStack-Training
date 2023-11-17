@@ -1,0 +1,37 @@
+Ecommerce for beauty products and cosmetics
+--------------------------------------
+ *Continued with the backend part of the project 
+
+        -> Controller
+
+            - Admin user
+
+            - Admin category
+
+            - Admin order
+
+            - Admin beautyProducts
+
+            - Auth
+
+            -beautyProducts
+
+            -cart
+
+            -order
+
+            -user
+
+        -> Add HttpRequests for the following in the controller
+
+                1. Login with validation
+
+                2. Register with validation
+
+                3. Add/Edit/Delete/Get Admin
+
+                4. Add/Edit/Delete/Get beautyProducts
+
+                5.Add/Edit/Delete/Get Address
+
+                6.Add/Edit/Delete/Get category
