@@ -1,0 +1,53 @@
+Ecommerce for beauty products and cosmetics
+--------------------------------------
+
+    *Started with backend part of the project by creating the following 
+
+        -> Models 
+
+            - User (Admin, User)
+
+            - Address
+
+            - beautyProducts
+
+            - cart
+
+            - category
+
+            - orderStatus
+
+            - order
+
+            - orderedBeautyProducts
+
+        -> Repository
+           - User (Admin, User)Repository
+
+            - AddressRepository
+
+            - beautyProductsRepository
+
+            - cartRepository
+
+            - categoryRepository
+
+            - orderStatusRepository
+
+            - orderRepository
+
+            - orderedBeautyProductsRepository
+
+        -> Controller 
+
+        -> Request and Response Model
+
+        -> Security configuration 
+
+        -> Exception 
+
+        -> Service 
+
+        -> DTO 
+
+        -> Data loader 
