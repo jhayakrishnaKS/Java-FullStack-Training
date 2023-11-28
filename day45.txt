@@ -1,0 +1,10 @@
+Ecommerce for beauty products and cosmetics
+--------------------------------------
+ *Continued with the integration of back end and frontend
+        - Integrated all the POST methods.
+            -> POST products  
+
+
+        - Integrated all the PUT methods.
+            -> PUT category 
+            -> PUT products 

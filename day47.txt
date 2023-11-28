@@ -1,0 +1,9 @@
+Ecommerce for beauty products and cosmetics
+--------------------------------------
+ *Continued with the integration of back end and frontend
+ - Made few changes in the UI.
+ - corrected some errors in POST method in user details.
+  Integrated all the PUT methods.
+            -> PUT order status
+            -> PUT user details
+     

@@ -1,0 +1,8 @@
+Ecommerce for beauty products and cosmetics
+--------------------------------------
+ *Continued with the integration of back end and frontend
+ - Made few changes in the UI.
+        - Integrated all the POST methods.
+            -> POST order  
+
+Got to know how to add file/images to the backend and sql.

@@ -1,0 +1,16 @@
+Ecommerce for beauty products and cosmetics
+--------------------------------------
+ *Continued with the backend part of the project in the postman
+ -> Controller
+            - User end points 
+                1. GET 
+                2. POST 
+                3. PUT
+                4.delete
+            
+            - Admin end points
+                1. GET 
+                2. POST 
+                3. PUT
+                4.delete
+            

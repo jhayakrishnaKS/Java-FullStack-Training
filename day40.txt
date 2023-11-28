@@ -1,0 +1,11 @@
+Ecommerce for beauty products and cosmetics
+--------------------------------------
+*Completed the backend part for the following 
+        - Admin Profile
+        - User Profile 
+        - Auth (Login/Register)
+
+    *Started with the UI part
+        - Login 
+        - Register 
+        - Home 

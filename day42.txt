@@ -1,0 +1,14 @@
+Ecommerce for beauty products and cosmetics
+--------------------------------------
+  *Continued with the front end part of the project 
+        - Added form validation for 
+            1. Login 
+            2. Register
+         
+        - Integrated login with the back-end.
+        - Started integrating other parts to the back-end.
+
+
+Topics 
+------
+    *Communication between components.

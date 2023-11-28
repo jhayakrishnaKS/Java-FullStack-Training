@@ -1,0 +1,12 @@
+ Ecommerce for beauty products and cosmetics
+--------------------------------------
+ *Continued with the integration of back end and frontend
+        - Integrated all the POST methods.
+            -> POST category 
+            -> Register 
+
+
+        - Integrated all the DELETE methods.
+            -> DELETE category 
+            -> DELETE products 
+            -> DELETE cart 
