@@ -1,0 +1,15 @@
+Ecommerce for beauty products and cosmetics
+--------------------------------------
+ *Continued with the integration of back end and frontend
+        - Made UI changes.
+        - Made backend changes.
+
+        *Yet to complete 
+        - Navbar and sidebar enchancement.
+        - UI changes for 
+            -> Admin pages 
+            -> User pages 
+            ->file upload
+            ->add to cart
+            -> add to cart count
+            ->file upload in frontend 
