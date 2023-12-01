@@ -5,7 +5,7 @@ custom validation
 completion of project Ecommerce for beauty and cosmetic products
  
 Alll CRED operation in 
-book 
+beautyproduct 
 category
 author
 issue  beautyproduct
